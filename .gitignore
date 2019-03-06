@@ -12,3 +12,5 @@
 *.ttf
 *.otf
 *proj.ass
+*.translation.txt
+*keyframes.txt
