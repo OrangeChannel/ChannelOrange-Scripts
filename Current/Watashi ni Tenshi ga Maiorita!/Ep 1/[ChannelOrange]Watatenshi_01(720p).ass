@@ -22,8 +22,8 @@ Style: EndCard,@A-OTF Pretty Momo Std Bold,93,&H003F3F3F,&H000000FF,&H00F9F9F9,&
 Style: EndCard Outline,@A-OTF Pretty Momo Std Bold,93,&HFF3F3F3F,&H000000FF,&H00F9F9F9,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,9,7,7,7,1
 Style: Default - an1,Gadugi,66,&H00FFDDF8,&H00FFFFFF,&HB8FFA7EE,&H40000000,-1,0,0,0,100,100,0,0,1,2.4,1.2,1,160,160,42,1
 Style: Default - an1 - no bord,Gadugi,66,&H00FFDDF8,&H00FFFFFF,&HB8FFA7EE,&H40000000,-1,0,0,0,100,100,0,0,1,0,0,1,160,160,42,1
-Style: Moving Sign,Arial,13,&H00FFFFFF,&H000000FF,&H722DD6EA,&H00000000,0,0,0,0,100,100,0,0,1,0.666667,0,2,7,7,7,1
-Style: Moving Sign main,Arial,13,&H00FFFFFF,&H000000FF,&H722DD6EA,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,7,7,7,1
+Style: Moving Sign,Allerta,52,&HFFFFFFFF,&H000000FF,&H982CD1EF,&H00000000,-1,0,0,0,100,100,6,0,1,0.666667,0,2,7,7,7,1
+Style: Moving Sign main,Allerta,52,&H802C08B2,&H000000FF,&H722DD6EA,&H00000000,-1,0,0,0,100,100,6,0,1,0,0,2,7,7,7,1
 Style: CO_1080,Gandhi Sans,48,&H00FFFFFF,&H00666666,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.4,0.8,2,128,128,42,1
 Style: Chizuru,Gandhi Sans,48,&H00FFFFFF,&H00666666,&H003A3D4F,&H66000000,0,0,0,0,100,100,0,0,1,2.4,0.8,2,128,128,42,1
 Style: Mya-nee,Gandhi Sans,48,&H00FFFFFF,&H00666666,&H00454564,&H66000000,0,0,0,0,100,100,0,0,1,2.4,0.8,2,128,128,42,1
@@ -1046,8 +1046,8 @@ Dialogue: 0,0:22:15.77,0:22:16.85,Default - an1,Karaoke,0,0,0,,{\kf23}pu{\kf24}r
 Dialogue: 0,0:22:17.64,0:22:18.82,Default - an1,Karaoke,0,0,0,,{\kf30}ko{\kf22}ko {\kf22}da{\kf17}ke {\kf27}no
 Dialogue: 0,0:22:18.82,0:22:19.42,Default - an1,Karaoke,0,0,0,,koko dake no
 Dialogue: 0,0:22:19.42,0:22:20.90,Default - an1,Karaoke,0,0,0,,{\kf37}hi{\kf24}mi{\kf29}tsu{\kf14}da{\kf44}yo
-Dialogue: 0,0:22:23.02,0:22:24.98,Moving Sign,,0,0,0,,{\pos(-9.6,639.333)\frz2.837\fnAllerta\fs50\fsp6\b1\c&H563F97&\3c&H2CD1EF&\1a&HFF&\3a&H98&\blur2.667}& Moving
-Dialogue: 1,0:22:23.02,0:22:24.98,Moving Sign main,,0,0,0,,{\pos(-9.6,639.333)\frz2.837\fnAllerta\fs50\fsp6\b1\c&H472CB9&\1a&H63&\blur1}& Moving
+Dialogue: 0,0:22:23.02,0:22:24.98,Moving Sign,,0,0,0,,{\pos(-6.933,642.667)\frz2.9\blur2.667}& Moving
+Dialogue: 1,0:22:23.02,0:22:24.98,Moving Sign main,,0,0,0,,{\pos(-6.933,642.667)\frz2.9\blur1}& Moving
 Dialogue: 5,0:22:24.99,0:22:27.45,Mya-nee,Miyako,0,0,0,,{\i1}Today, I'm all alone in the house.
 Dialogue: 5,0:22:27.45,0:22:28.70,Mya-nee,Miyako,0,0,0,,This is my chance!
 Dialogue: 5,0:22:32.95,0:22:34.16,Mya-nee,Miyako,0,0,0,,Pale...
@@ -1380,5 +1380,5 @@ Dialogue: 7,0:23:34.81,0:23:40.01,EndCard,,0,0,0,,{\an8\pos(640,60)\blur0.833\fa
 Dialogue: 7,0:23:34.81,0:23:40.01,EndCard,,0,0,0,,{\an8\pos(640,168)\blur0.833\fad(940,0)}"Incontestably Cute"
 Dialogue: 6,0:23:34.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\pos(640,168)\3a&H19&\blur0.667\fad(940,0)}"Incontestably Cute"
 Dialogue: 6,0:23:34.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\pos(640,60)\3a&H19&\blur0.667\fad(940,0)}Next Time
-Dialogue: 5,0:23:35.52,0:23:37.64,Hana,Hana,0,0,0,,Next time: "Incontestably Cute."
+Dialogue: 5,0:23:35.52,0:23:37.64,Hana,Hana,0,0,0,,Next time: "Incontestably Cute".
 Dialogue: 5,0:23:37.64,0:23:39.23,Hana,Hana,0,0,0,,Until then...
