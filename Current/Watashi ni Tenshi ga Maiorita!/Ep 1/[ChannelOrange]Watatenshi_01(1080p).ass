@@ -998,11 +998,11 @@ Dialogue: 5,0:20:43.72,0:20:47.22,Hana,Hana,0,0,0,,Onee-san, you sleep with Hina
 Dialogue: 5,0:20:47.22,0:20:48.47,Mya-nee,Miyako,0,0,0,,Yeah...
 Dialogue: 5,0:20:48.47,0:20:50.14,Hana,Hana,0,0,0,,That must be rough.
 Dialogue: 5,0:20:50.14,0:20:51.27,Mya-nee,Miyako,0,0,0,,Yeah.
-Dialogue: 0,0:21:12.49,0:21:15.05,Default - an1,Karaoke,0,0,0,,{\fad(72,0)\kf38}sa {\fad(85,0)\kf46}kon{\kf30}ya {\kf25}mo {\kf34}gen{\kf35}ki {\kf48}ni
-Dialogue: 0,0:21:15.05,0:21:16.80,Default - an1,Karaoke,0,0,0,,{\kf22}ha{\kf27}ji{\kf23}me{\kf24}ma{\kf79}sho
+Dialogue: 0,0:21:12.49,0:21:15.05,Default - an1,Karaoke,0,0,0,,{\kf38}{\fad(72,0)}sa {\fad(85,0)}{\kf46}kon{\kf30}ya {\kf59}mo gen{\kf35}ki {\kf48}ni
+Dialogue: 0,0:21:15.05,0:21:16.80,Default - an1,Karaoke,0,0,0,,{\kf49}haji{\kf47}mema{\kf79}sho
 Dialogue: 0,0:21:16.80,0:21:17.00,Default - an1,Karaoke,0,0,0,,hajimemasho
-Dialogue: 0,0:21:17.00,0:21:20.59,Default - an1,Karaoke,0,0,0,,{\kf30}ten{\kf37}shi {\kf35}ga {\kf37}ma{\kf115}ioriru {\kf105}jikan
-Dialogue: 0,0:21:20.59,0:21:22.47,Default - an1,Karaoke,0,0,0,,{=5}{\kf65}jiyu {\kf29}ki{\kf32}ma{\kf33}ma {\kf29}ni
+Dialogue: 0,0:21:17.00,0:21:20.59,Default - an1,Karaoke,0,0,0,,{\kf30}ten{\kf37}shi {\kf72}ga ma{\kf115}ioriru {\kf105}jikan
+Dialogue: 0,0:21:20.59,0:21:22.47,Default - an1,Karaoke,0,0,0,,{=5}{\kf65}jiyu {\kf123}kimama ni
 Dialogue: 0,0:21:22.47,0:21:22.51,Default - an1,Karaoke,0,0,0,,{=5}{\pos(400.609,1017)}jiyu kimama ni
 Dialogue: 0,0:21:22.51,0:21:24.34,Default - an1,Karaoke,0,0,0,,{\kf89}hashaidei{\kf94}taino
 Dialogue: 0,0:21:22.51,0:21:22.55,Default - an1,Karaoke,0,0,0,,{=5}{\pos(824.83,1017)}jiyu kimama ni
@@ -1031,11 +1031,12 @@ Dialogue: 0,0:21:41.78,0:21:41.86,Default - an1,Karaoke,0,0,0,,{\clip(m 315 938.
 Dialogue: 0,0:21:41.86,0:21:41.94,Default - an1,Karaoke,0,0,0,,{\clip(m 256 934 l 268 963 275.125 968.125 282 970 286 969 292 965.125 294 962.125 297 956.125 299.125 950.125 386.125 948 377.125 1044 165 1030 181 941.125)}ima
 Dialogue: 0,0:21:41.94,0:21:42.03,Default - an1,Karaoke,0,0,0,,{\clip(m 268 920.125 l 262 955 262 968.125 265 976 268 979 275.125 982 282 980.125 289 976 297 969 306 963 325 949 322 966 320.125 984 321 996 323.125 1003 326.125 1006 332.125 1009 339 1010.125 345 1009 348 1005 356.125 997 374.125 982 376 1046.125 179.125 1049.125 189 914.125)}ima
 Dialogue: 0,0:21:42.03,0:21:42.28,Default - an1,Karaoke,0,0,0,,ima
-Dialogue: 0,0:21:42.84,0:21:47.12,Default - an1,Karaoke,0,0,0,,{\kf54}a{\kf38}na{\kf34}ta {\kf34}no {\kf63}su{\kf34}gu {\kf36}so{\kf24}ba {\kf48}ni {\kf47}iru{\kf16}yo
+Dialogue: 0,0:21:42.84,0:21:47.12,Default - an1,Karaoke,0,0,0,,{\kf54}a{\kf72}nata {\kf34}no {\kf63}su{\kf34}gu {\kf36}so{\kf24}ba {\kf95}ni iru{\kf16}yo
 Dialogue: 0,0:21:47.12,0:21:50.62,Default - an1,Karaoke,0,0,0,,{\1a&HFF&\blur12\t(0,226,2,\blur0)}kimamana tenshitachi
-Dialogue: 1,0:21:47.12,0:21:50.62,Default - an1 - no bord,Karaoke,0,0,0,,{\blur9\t(0,226,2,\blur0)\kf54}ki{\kf25}ma{\kf49}ma{\kf47}na {\kf56}ten{\kf40}shi{\kf19}ta{\kf60}chi
-Dialogue: 0,0:21:50.62,0:21:54.95,Default - an1,Karaoke,0,0,0,,{\kf39}a{\kf43}me{\kf27}fu{\kf35}ri {\kf66}sa{\kf30}bi{\kf61}shi {\kf45}to{\kf27}ki {\kf26}ni {\kf34}wa
-Dialogue: 0,0:21:54.95,0:21:57.96,Default - an1,Karaoke,0,0,0,,{\kf35}e{\kf23}ga{\kf47}o {\kf47}de {\kf49}te {\kf24}o {\kf26}ta{\kf26}ta{\kf24}ko
+Dialogue: 1,0:21:47.12,0:21:50.31,Default - an1 - no bord,Karaoke,0,0,0,,{\kf54}{\blur9\t(0,226,2,\blur0)}ki{\kf25}ma{\kf49}ma{\kf47}na {\kf56}ten{\kf40}shi{\kf20}ta{\kf28}chi
+Dialogue: 1,0:21:50.31,0:21:50.62,Default - an1 - no bord,Karaoke,0,0,0,,kimamana tenshitachi
+Dialogue: 0,0:21:50.62,0:21:54.95,Default - an1,Karaoke,0,0,0,,{\kf39}a{\kf43}me{\kf27}fu{\kf35}ri {\kf66}sa{\kf30}bi{\kf61}shi {\kf45}to{\kf53}ki ni {\kf34}wa
+Dialogue: 0,0:21:54.95,0:21:57.96,Default - an1,Karaoke,0,0,0,,{\kf35}e{\kf23}ga{\kf47}o {\kf96}de te {\kf100}o tatako
 Dialogue: 0,0:21:57.96,0:22:02.59,Default - an1,Karaoke,0,0,0,,{\kf68}a{\kf48}na{\kf24}ta {\kf36}no {\kf58}su{\kf37}gu {\kf34}so{\kf25}ba {\kf51}ni {\kf21}i{\kf24}ru{\kf37}yo
 Dialogue: 0,0:22:02.59,0:22:05.76,Default - an1,Karaoke,0,0,0,,{\kf34}tsu{\kf26}ra{\kf47}i {\kf44}toki {\kf64}kana{\kf34}shi {\kf24}to{\kf44}ki
 Dialogue: 0,0:22:05.76,0:22:10.18,Default - an1,Karaoke,0,0,0,,{\kf53}o {\kf35}hoshi {\kf36}sa{\kf42}ma {\kf98}kira{\kf53}kira {\kf93}egao {\kf32}de
