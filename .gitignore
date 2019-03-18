@@ -7,11 +7,9 @@
 *.aac
 *.h265
 *.psd
-*project.ass
 *.torrent
 *.ttf
 *.otf
-*proj.ass
 *.translation.txt
 *keyframes.txt
 *.png
