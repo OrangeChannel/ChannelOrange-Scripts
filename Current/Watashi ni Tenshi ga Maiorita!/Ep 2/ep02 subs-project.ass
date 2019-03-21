@@ -15,13 +15,12 @@ Original Timing: CO
 [Aegisub Project Garbage]
 Audio File: H:/[_wataten/[HorribleSubs] Watashi ni Tenshi ga Maiorita! - 02 [1080p].mkv
 Video File: H:/[_wataten/[HorribleSubs] Watashi ni Tenshi ga Maiorita! - 02 [1080p].mkv
-Keyframes File: H:/[_wataten/[HorribleSubs] Watashi ni Tenshi ga Maiorita! - 02 [1080p]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 275
-Active Line: 290
-Video Position: 10924
+Scroll Position: 1331
+Active Line: 1335
+Video Position: 33955
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1390,10 +1389,6 @@ Dialogue: 0,0:23:24.88,0:23:28.59,Mya-nee,Miyako,0,0,0,,Yes... very cute, Noa-ch
 Dialogue: 0,0:23:28.59,0:23:29.93,Noa,Noa,0,0,0,,Right?
 Dialogue: 0,0:23:29.93,0:23:31.51,Noa,Noa,0,0,0,,Wait, what are you looking at, Mya-san?
 Dialogue: 0,0:23:31.51,0:23:34.18,Mya-nee,Miyako,0,0,0,,Hana-chan is such an angel!
-Dialogue: 7,0:23:33.81,0:23:40.01,EndCard,,0,0,0,,{\an8\pos(360,136.9)\blur1.25\fad(940,0)}Next Time
-Dialogue: 7,0:23:33.81,0:23:40.01,EndCard,,0,0,0,,{\an8\pos(360,282.4)\blur1.25\fad(940,0)}"Imprinting"
-Dialogue: 6,0:23:33.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\pos(360,282.4)\3a&H19&\blur1\fad(940,0)}"Imprinting"
-Dialogue: 6,0:23:33.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\pos(360,136.4)\3a&H19&\blur1\fad(940,0)}Next Time
-Dialogue: 0,0:23:34.68,0:23:36.18,Noa,Noa,0,0,0,,Oh, honestly!
-Dialogue: 0,0:23:36.18,0:23:37.52,Noa,Noa,0,0,0,,Next time: "Imprinting".
+Dialogue: 0,0:23:34.68,0:23:36.10,Noa,Noa,0,0,0,,Oh, honestly!
+Dialogue: 0,0:23:36.10,0:23:37.52,Noa,Noa,0,0,0,,Next time: "Imprinting"
 Dialogue: 0,0:23:37.52,0:23:38.52,Noa,Noa,0,0,0,,Be sure to watch!

@@ -22,7 +22,7 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 1027
 Active Line: 1034
-Video Position: 33922
+Video Position: 33939
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1079,11 +1079,7 @@ Dialogue: 5,0:23:18.04,0:23:20.25,Noa,Noa,0,0,0,,White Lily!
 Dialogue: 5,0:23:26.51,0:23:29.26,Mya-nee,Miyako,0,0,0,,Hana-chan was so cute!
 Dialogue: 5,0:23:29.26,0:23:31.64,Mya-nee,Miyako,0,0,0,,What should I have her wear next time?
 Dialogue: 5,0:23:31.64,0:23:35.52,Mya-nee,Miyako,0,0,0,,Something like that... Oh, or this would be good!
-Dialogue: 7,0:23:34.81,0:23:40.01,EndCard,,0,0,0,,{\an8\blur1.25\fad(940,0)\pos(570,142)}Next Time
-Dialogue: 7,0:23:34.81,0:23:40.01,EndCard,,0,0,0,,{\an8\blur1.25\fad(940,0)\pos(770,380)}"Uncontestably Cute"
-Dialogue: 6,0:23:34.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\3a&H19&\blur1\fad(940,0)\pos(770,380)}"Uncontestably Cute"
-Dialogue: 6,0:23:34.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\3a&H19&\blur1\fad(940,0)\pos(570,142)}Next Time
-Dialogue: 5,0:23:35.52,0:23:37.64,Hana,Hana,0,0,0,,Next time: "Uncontestably Cute".
+Dialogue: 5,0:23:35.52,0:23:37.64,Hana,Hana,0,0,0,,Next time: "Uncontestably Cute"
 Dialogue: 5,0:23:37.64,0:23:39.23,Hana,Hana,0,0,0,,Until then...
 
 [Aegisub Extradata]
