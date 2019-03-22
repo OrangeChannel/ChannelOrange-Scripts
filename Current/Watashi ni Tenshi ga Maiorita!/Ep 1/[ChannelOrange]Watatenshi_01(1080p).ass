@@ -18,8 +18,6 @@ Style: CO_1080,Gandhi Sans,72,&H00FFFFFF,&H00666666,&H00000000,&H66000000,0,0,0,
 Style: Chizuru,Gandhi Sans,72,&H00FFFFFF,&H00666666,&H003A3D4F,&H66000000,0,0,0,0,100,100,0,0,1,3.6,1.2,2,192,192,63,1
 Style: Default - an1,Gadugi,99,&H00FFDDF8,&H00FFFFFF,&HB8FFA7EE,&H40000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,1,240,240,63,1
 Style: Default - an1 - no bord,Gadugi,99,&H00FFDDF8,&H00FFFFFF,&HB8FFA7EE,&H40000000,-1,0,0,0,100,100,0,0,1,0,0,1,240,240,63,1
-Style: EndCard,@A-OTF Pretty Momo Std Bold,100,&H003F3F3F,&H000000FF,&H00F9F9F9,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,11,11,11,1
-Style: EndCard Outline,@A-OTF Pretty Momo Std Bold,100,&HFF3F3F3F,&H000000FF,&H00F9F9F9,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,9,11,11,11,1
 Style: Episode Title,@FOT-Kurokane Std EB,72,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,11,11,11,1
 Style: Episode Title Main,@FOT-Kurokane Std EB,72,&H000698F2,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,11,11,11,1
 Style: Hana,Gandhi Sans,72,&H00FFFFFF,&H00666666,&H006B3C3D,&H66000000,0,0,0,0,100,100,0,0,1,3.6,1.2,2,192,192,63,1
@@ -1033,7 +1031,7 @@ Dialogue: 0,0:21:41.94,0:21:42.03,Default - an1,Karaoke,0,0,0,,{\clip(m 268 920.
 Dialogue: 0,0:21:42.03,0:21:42.28,Default - an1,Karaoke,0,0,0,,ima
 Dialogue: 0,0:21:42.84,0:21:47.12,Default - an1,Karaoke,0,0,0,,{\kf54}a{\kf72}nata {\kf34}no {\kf63}su{\kf34}gu {\kf36}so{\kf24}ba {\kf95}ni iru{\kf16}yo
 Dialogue: 0,0:21:47.12,0:21:50.62,Default - an1,Karaoke,0,0,0,,{\1a&HFF&\blur12\t(0,226,2,\blur0)}kimamana tenshitachi
-Dialogue: 1,0:21:47.12,0:21:50.31,Default - an1 - no bord,Karaoke,0,0,0,,{\kf54}{\blur9\t(0,226,2,\blur0)}ki{\kf25}ma{\kf49}ma{\kf47}na {\kf56}ten{\kf40}shi{\kf20}ta{\kf28}chi
+Dialogue: 1,0:21:47.12,0:21:50.31,Default - an1 - no bord,Karaoke,0,0,0,,{\kf54\blur9\t(0,226,2,\blur0)}ki{\kf25}ma{\kf49}ma{\kf47}na {\kf56}ten{\kf40}shi{\kf20}ta{\kf28}chi
 Dialogue: 1,0:21:50.31,0:21:50.62,Default - an1 - no bord,Karaoke,0,0,0,,kimamana tenshitachi
 Dialogue: 0,0:21:50.62,0:21:54.95,Default - an1,Karaoke,0,0,0,,{\kf39}a{\kf43}me{\kf27}fu{\kf35}ri {\kf66}sa{\kf30}bi{\kf61}shi {\kf45}to{\kf53}ki ni {\kf34}wa
 Dialogue: 0,0:21:54.95,0:21:57.96,Default - an1,Karaoke,0,0,0,,{\kf35}e{\kf23}ga{\kf47}o {\kf96}de te {\kf100}o tatako
@@ -1067,9 +1065,5 @@ Dialogue: 5,0:23:18.04,0:23:20.25,Noa,Noa,0,0,0,,White Lily!
 Dialogue: 5,0:23:26.51,0:23:29.26,Mya-nee,Miyako,0,0,0,,Hana-chan was so cute!
 Dialogue: 5,0:23:29.26,0:23:31.64,Mya-nee,Miyako,0,0,0,,What should I have her wear next time?
 Dialogue: 5,0:23:31.64,0:23:35.52,Mya-nee,Miyako,0,0,0,,Something like that... Oh, or this would be good!
-Dialogue: 7,0:23:34.81,0:23:40.01,EndCard,,0,0,0,,{\an8\blur1.25\fad(940,0)\pos(570,142)}Next Time
-Dialogue: 7,0:23:34.81,0:23:40.01,EndCard,,0,0,0,,{\an8\blur1.25\fad(940,0)\pos(770,380)}"Uncontestably Cute"
-Dialogue: 6,0:23:34.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\3a&H19&\blur1\fad(940,0)\pos(770,380)}"Uncontestably Cute"
-Dialogue: 6,0:23:34.81,0:23:40.01,EndCard Outline,,0,0,0,,{\an8\3a&H19&\blur1\fad(940,0)\pos(570,142)}Next Time
-Dialogue: 5,0:23:35.52,0:23:37.64,Hana,Hana,0,0,0,,Next time: "Uncontestably Cute".
+Dialogue: 5,0:23:35.52,0:23:37.64,Hana,Hana,0,0,0,,Next time: "Uncontestably Cute"
 Dialogue: 5,0:23:37.64,0:23:39.23,Hana,Hana,0,0,0,,Until then...
