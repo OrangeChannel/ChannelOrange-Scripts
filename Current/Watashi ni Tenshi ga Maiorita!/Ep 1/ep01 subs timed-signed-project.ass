@@ -9,8 +9,9 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 Original Script: Crunchyroll
 Original Translation: Crunchyroll
-Original Editing: CO
-Original Timing: CO
+Original Editing: ChannelOrange
+Original Timing: ChannelOrange
+Title: [ChannelOrange] Watatenshi 01
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
@@ -20,9 +21,9 @@ Video File: H:/[_wataten/[HorribleSubs] Watashi ni Tenshi ga Maiorita! - 01 [108
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 1020
-Active Line: 1030
-Video Position: 33939
+Scroll Position: 678
+Active Line: 684
+Video Position: 15308
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,10 +49,6 @@ Dialogue: 5,0:00:35.22,0:00:36.97,Hinata,Hinata,0,0,0,,Mya-nee, are you awake?
 Dialogue: 5,0:00:36.97,0:00:39.06,Mya-nee,Miyako,0,0,0,,M-Morning...
 Dialogue: 5,0:00:39.06,0:00:40.68,Hinata,Hinata,0,0,0,,Good morning!
 Dialogue: 5,0:00:40.68,0:00:42.39,Hinata,Hinata,0,0,0,,I'm going now!
-Dialogue: 5,0:00:42.39,0:00:42.52,Hinata,Hinata,0,0,0,,{\pos(1007,1017)}I'm going now!
-Dialogue: 5,0:00:42.52,0:00:42.64,Hinata,Hinata,0,0,0,,{\pos(1044,1017)}I'm going now!
-Dialogue: 5,0:00:42.64,0:00:42.77,Hinata,Hinata,0,0,0,,{\pos(1199,1017)}I'm going now!
-Dialogue: 5,0:00:42.77,0:00:42.89,Hinata,Hinata,0,0,0,,{\pos(1476,1017)\clip(1233,924,1538,1049)}I'm going now!
 Dialogue: 5,0:00:43.89,0:00:46.90,Mya-nee,Miyako,0,0,0,,{\fad(0,1271)}Bye...
 Dialogue: 5,0:00:48.52,0:00:51.57,Chizuru,Chizuru,0,0,0,,Miyako! How long are you going to stay in bed?
 Dialogue: 5,0:00:51.57,0:00:56.61,Mya-nee,Miyako,0,0,0,,I'm up! I'm up already...

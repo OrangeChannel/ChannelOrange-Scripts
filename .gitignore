@@ -11,6 +11,7 @@
 *.ttf
 *.otf
 *.translation.txt
+*premux.ass
 *keyframes.txt
 *.png
 *.ai
