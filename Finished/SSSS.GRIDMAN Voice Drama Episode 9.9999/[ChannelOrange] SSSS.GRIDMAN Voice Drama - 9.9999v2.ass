@@ -14,20 +14,22 @@ Original Editing: ChannelOrange
 Original Timing: ChannelOrange
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: [ChannelOrange] SSSS.GRIDMAN Voice Drama - 9.9999 (OPUS).mkv
+Video File: [ChannelOrange] SSSS.GRIDMAN Voice Drama - 9.9999 (OPUS).mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Scroll Position: 21
+Active Line: 27
+Video Position: 2469
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Liszt FY,81,&H00FFFFFF,&H000000FF,&H00000000,&H40000000,0,0,0,0,95,100,0,0,1,3.6,1.8,2,200,200,72,1
-Style: gridman,Futura Bk BT,72,&H00000000,&H000000FF,&H00000000,&H40000000,0,0,0,0,110,100,16,0,1,0,0,2,240,240,63,1
-Style: main title,Futura Bk BT,150,&H00000000,&H000000FF,&H00000000,&H40000000,0,0,0,0,100,100,0,0,1,0,0,2,240,240,63,1
-Style: main title - Copy,Futura Bk BT,78,&H00000000,&H000000FF,&H00000000,&H40000000,0,0,0,0,100,100,0,0,1,0,0,2,240,240,63,1
+Style: Default,Gandhi Sans,72,&H00FFFFFF,&H00666666,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,3.6,1.2,2,192,192,63,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.01,0:00:11.77,main title,,0,0,0,,{\pos(960,480)\fad(2450,1000)}What Happened that Day
-Dialogue: 0,0:00:00.01,0:00:11.77,gridman,,0,0,0,,{\pos(960,600)\fscx85\fscy85\fad(2450,1000)}SSSS.GRIDMAN
-Dialogue: 0,0:00:00.01,0:00:11.77,main title - Copy,,0,0,0,,{\pos(960,658)\fscx80\fscy80\fad(2450,1000)}Voice Drama
-Dialogue: 0,0:00:00.01,0:00:11.77,main title - Copy,,0,0,0,,{\pos(960,789)\fscx110\fscy110\fad(2450,1000)}— Episode 9.9999 —
 Dialogue: 0,0:00:17.55,0:00:19.80,Default,,0,0,0,,Okay, now let's go over there!
 Dialogue: 0,0:00:19.80,0:00:22.33,Default,,0,0,0,,Come on, you're pushing yourself too hard.
 Dialogue: 0,0:00:22.33,0:00:23.92,Default,,0,0,0,,I'm not forcing myself or anything!
