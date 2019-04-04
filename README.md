@@ -8,7 +8,13 @@ Projects using these scripts can be found on https://nyaa.si/ or https://animeby
 If you'd like to edit scripts, or suggest changes, feel free to create a pull request.
 Otherwise, you can use these scripts and the other included files in your own mux/release, no credit necessary.
 
+#### Copyright and Intellectual Property
+
+This repo does not contain anything that breaks international copyright laws.
+
 Sadly, fonts that are used in the scripts are mostly under copyright, or blocked from sharing publicly. To get the fonts, I suggest you grab the related torrent of the release.
+
+Every file in the repo is licensed under <TODO>.
 
 ## Patches
 
