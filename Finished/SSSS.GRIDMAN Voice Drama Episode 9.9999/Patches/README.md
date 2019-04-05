@@ -3,7 +3,7 @@
 1. First, make sure your copy has the right checksum. Find the CRC of your local file, and make sure it matches the CRC in the filename.
   
    - You can do this using [RapidCRC](http://rapidcrc.sourceforge.net/download.html) on Windows.
-2. Download the correct patch for your version. The CRC in your local filename should match the first CRC of the patch zip.
+2. Download the correct patch for your version. ~~The CRC in your local filename should match the first CRC of the patch zip.~~ (NOTE: there's only one patch here, and the original version didn't include a CRC in the filename)
 3. Unpack the archive into the same folder as your file, or into a new folder specifically for patching.
    
    - If you create a new folder, make sure to move your release file into this new folder.
