@@ -1,7 +1,7 @@
 # What is this?
 
 This is a collection of all final and WIP release scripts under the [ChannelOrange] name.
-Projects using these scripts can be found on https://nyaa.si/ or https://animebytes.tv/
+Projects using these scripts can be found on [https://nyaa.si/](https://nyaa.si/user/davste0816) or [https://animebytes.tv/](https://animebytes.tv/alltorrents.php?type=uploaded&userid=52164)
 
 # How do I use this repo?
 
